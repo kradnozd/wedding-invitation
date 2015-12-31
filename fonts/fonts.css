@@ -1,0 +1,53 @@
+/**
+ * Lavel-up | Responsive coming soon template
+ * By WPBean
+ */
+
+
+
+ /* ==========================================================================
+    Lovelo Black font
+    ========================================================================== */
+
+@font-face {
+    font-family: 'loveloblack';
+    src: url('lovelo/lovelo_black.eot');
+    src: url('lovelo/lovelo_black.eot?#iefix') format('embedded-opentype'),
+         url('lovelo/lovelo_black.woff') format('woff'),
+         url('lovelo/lovelo_black.ttf') format('truetype'),
+         url('lovelo/lovelo_black.svg#loveloblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+ /* ==========================================================================
+    Futura VN font
+    ========================================================================== */
+
+@font-face {
+    font-family: 'futuravn';
+    src: url('futuravn');
+    src: url('futuravn/FtraMd.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'futuravn';
+    src: url('futuravn');
+    src: url('futuravn/FtraHv.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'futuravn';
+    src: url('futuravn');
+    src: url('futuravn/FtraBd.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* ==========================================================================
+   Open sans
+   ========================================================================== */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
